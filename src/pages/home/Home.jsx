@@ -16,7 +16,7 @@ const Home = () => {
        <Featured/> 
        <h1 className="homeTitle">Browse Properties</h1> 
        <PropertyList/>
-
+       <h1 className="homeTitle">Homes guests love</h1>
        <FeaturedProperties/>
        <MailList/>
        <Footer/>
